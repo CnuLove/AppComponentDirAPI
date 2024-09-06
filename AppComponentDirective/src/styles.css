@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  .df-primary {
+    --bg-color: #108542;
+    --text-color: #faf0e6;
+  }
+  .df-secondary {
+    --bg-color: rgb(249, 186, 11);
+    --text-color: #333;
+  }
+
+  .cf-primary {
+    --bg-color: #105e85;
+    --text-color: #faf0e6;
+  }
+  .cf-secondary {
+    --bg-color: rgb(249, 106, 11);
+    --text-color: #333;
+  }
